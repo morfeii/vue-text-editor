@@ -1,4 +1,6 @@
-# text-editor
+# Text Editor Test Task
+
+DEMO LINK - https://text-editor-task.netlify.app/
 
 ## Project setup
 ```
